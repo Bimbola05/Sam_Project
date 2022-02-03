@@ -1,2 +1,2 @@
 # Sam_Project
-This is Skybarrel Projects in data analytics
+This is Skybarell Projects in data analytics
